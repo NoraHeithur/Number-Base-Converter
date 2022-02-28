@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Number Base Converter/task" />
+            <option value="$PROJECT_DIR$/Number Base Converter/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Number Base Converter/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Number Base Converter/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Number Base Converter/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Number Base Converter/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Number Base Converter/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Number Base Converter/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Ability to change" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Average" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Deposit" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Gold mining" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Initialization" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Multiplication" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Round and power" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Rounding with a given precision" />
+            <option value="$PROJECT_DIR$/Topics/BigDecimal/Theory" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Division" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Exabytes" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Incorrect declarations" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Incorrect lines" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/LCM" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Max" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Percentage" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Simple expression" />
+            <option value="$PROJECT_DIR$/Topics/BigInteger/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Characters/A capital letter or a digit" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Compare Latin letters" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Comparing numbers and characters" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Digits or not" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Sequence" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Comparing sums" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Get last digit" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Vowel or not" />
+            <option value="$PROJECT_DIR$/Topics/Equality/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Equality/True captain" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Circular shift" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Count occurrences" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/For loops task" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Individual taxes" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/List indexes" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Number in a set" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Print all elements" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Right Rotation" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Sum of numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/The index of the first max" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Triples" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Two numbers in a row" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Check the order" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Count the numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The maximum pairwise product" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The minimum value of N numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The sum of N numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Case insensitive" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Exchange" />
+            <option value="$PROJECT_DIR$/Topics/Getting substrings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Boxes" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Interval" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Knights" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Leap year" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Number dividers" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Odd or even" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Queens" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Statements about if" />
+            <option value="$PROJECT_DIR$/Topics/If expression/The max of three numbers" />
+            <option value="$PROJECT_DIR$/Topics/If expression/The max of two numbers without else-branch" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Theory" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Triangle" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Desks" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Divide nuts equally between squirrels" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Good rest on vacation" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/How many nuts will be left after division" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Next even number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The number of tens" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The sum of digits" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a list" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Swap" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Convert a date" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Cutting out the middle of a string" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Find the first occurrence of the word  the" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Number of occurrences" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Parse url" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Piece of alphabet" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/The longest word" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/The lucky ticket" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String basics/JSON" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Date and time formatting" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Repetitions and templates" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Cutting the fraction" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Lie detector" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Simple converter" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Sum of Longs" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Adding lists" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Adding values" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Changing the existing values" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Empty" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Guard On The Gate" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Playing with numbers" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Printing a list" />
+            <option value="$PROJECT_DIR$/Topics/Work with MutableLists/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

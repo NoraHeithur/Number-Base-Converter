@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-BigDecimal-Ability_to_change" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/BigDecimal/Ability to change" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Number Base Converter" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/BigDecimal/Ability to change">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/BigDecimal/Ability to change/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/BigDecimal/Ability to change/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/BigDecimal/Ability to change/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
